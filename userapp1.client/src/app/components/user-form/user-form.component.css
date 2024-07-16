@@ -1,0 +1,21 @@
+/* Container for the form */
+.mat-dialog-content {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style for the form fields */
+.mat-form-field {
+  margin-bottom: 16px;
+}
+
+/* Buttons at the bottom of the dialog */
+.mat-dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Button styling */
+button {
+  margin-left: 8px;
+}

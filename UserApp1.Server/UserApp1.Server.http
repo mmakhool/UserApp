@@ -1,0 +1,6 @@
+@UserApp1.Server_HostAddress = http://localhost:7291
+
+GET {{UserApp1.Server_HostAddress}}/users/
+Accept: application/json
+
+###
