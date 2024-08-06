@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\mjm\\Documents\\MakhoolDesigns\\MakhoolDesigns\\Repos\\UserApp\\UserApp1.Server\\..\\userapp1.client",
+"WorkingDirectory": "/Users/mick/Documents/GitHub/UserApp/UserApp1.Server/../userapp1.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

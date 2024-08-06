@@ -1,2 +1,3 @@
-C:\Users\mjm\Documents\MakhoolDesigns\MakhoolDesigns\Repos\UserAppExample\userapp1.client\obj\Debug\userapp1.client.esproj.CoreCompileInputs.cache
-C:\Users\mjm\Documents\MakhoolDesigns\MakhoolDesigns\Repos\UserApp\userapp1.client\obj\Debug\userapp1.client.esproj.CoreCompileInputs.cache
+C:/Users/mjm/Documents/MakhoolDesigns/MakhoolDesigns/Repos/UserAppExample/userapp1.client/obj/Debug/userapp1.client.esproj.CoreCompileInputs.cache
+C:/Users/mjm/Documents/MakhoolDesigns/MakhoolDesigns/Repos/UserApp/userapp1.client/obj/Debug/userapp1.client.esproj.CoreCompileInputs.cache
+/Users/mick/Documents/GitHub/UserApp/userapp1.client/obj/Debug/userapp1.client.esproj.CoreCompileInputs.cache
